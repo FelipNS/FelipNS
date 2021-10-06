@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/felipNS">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipNS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipNS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipNS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
