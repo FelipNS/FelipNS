@@ -9,7 +9,7 @@
 <div>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
+  <img align="center" alt="Excel" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
 </div>
   
 ##
