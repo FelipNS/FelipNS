@@ -1,8 +1,13 @@
 ## BEM VINDO A MINHA PÁGINA!!
-#### SINTA-SE A VONTADE DE BAIXAR, UTILIZAR, REFATORAR E ME ENSINAR A CODIFICAR MELHOR ☺️
-##
+#### Atualmente focado no aprendizado sobre Data Science e Data Engineer.
+**Desenvolvendo as habilidades em:**\
+:snake: Python;\
+:panda_face: Pandas;\
+:symbols: Numpy;\
+:gear: Sklearn;\
+:bar_chart: Matplotlib, seaborn e plotly;
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/felipNS">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipNS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -12,7 +17,6 @@
   <img align="center" alt="Excel" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
 </div>
   
-##
   
 <div>
    <a href="mailto:felipens0806@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
