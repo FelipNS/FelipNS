@@ -4,7 +4,7 @@
 :snake: Python;\
 :panda_face: Pandas;\
 :symbols: Numpy;\
-:gear: Sklearn;\
+:gear: Scikit learn;\
 :bar_chart: Matplotlib, seaborn e plotly;
 
 <div align="left">
