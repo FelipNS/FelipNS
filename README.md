@@ -3,6 +3,7 @@
 **Conhecimento nas tecnologias:**
 
 <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
+  
   <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
       <img align="center" alt="Python" height="50" width="max-content" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
