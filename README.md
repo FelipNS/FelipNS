@@ -4,21 +4,21 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
   <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div>
-    <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <p align="center">Python</p>
+    <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
+      <img align="center" alt="Python" height="50" width="max-content" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <p align="center">Python<br>(Data Science)</p>
     </div>
-    <div>
-    <img align="center" alt="Excel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <p align="center">Java</p>
+    <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
+      <img align="center" alt="Excel" height="50" width="max-content" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+      <p align="center">Java</p>
     </div>
-    <div>
-    <img align="center" alt="MySQL" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-    <p align="center">MySQL</p>
+    <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
+      <img align="center" alt="MySQL" height="50" width="max-content" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+      <p align="center">MySQL</p>
     </div>
-    <div>
-    <img align="center" alt="Excel" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
-    <p align="center">Excel</p>
+    <div style="display: flex; flex-direction: column; justify-content: center; width: max-content; height: max-content;">
+      <img align="center" alt="Excel" height="50" width="max-content" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
+      <p align="center">Excel</p>
     </div>
   </div>
 
